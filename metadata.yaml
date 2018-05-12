@@ -1,5 +1,8 @@
 _repo: An-Explanation-of-Luther-s-Small-Catechism_9912
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Stump, Joseph
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/155
     wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9912#An-Explanation-of-Luther-s-Small-Catechism
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
